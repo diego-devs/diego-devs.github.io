@@ -1,0 +1,1 @@
+#   Paso 2 - Instalar .NET 6 y un editor de código
