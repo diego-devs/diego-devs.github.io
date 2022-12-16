@@ -8,7 +8,7 @@ on:
       - '**'
     paths-ignore:
       - '.github/**'
-      - '!.github/workflows/ci.yml'
+      - '!.github/workflows/pages-deploy.yml'
       - '.gitignore'
       - 'README.md'
       - 'LICENSE'
