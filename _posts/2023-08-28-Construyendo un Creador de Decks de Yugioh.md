@@ -3,7 +3,7 @@ title: Bitacora Dev Construyendo un Creador de Mazos de Yu-Gi-Oh con ASP.NET Cor
 date: 2023-08-28 11:07:00 -500
 categories: [proyectos personales,software, development] 
 tags: [.net7,c#,unity,yugioh,asp.net core, async] # Tag names should ALWAYS be lowercase
-author: Diego Diaz Mendoza
+author: <author_id>
 comments: true
 ---
 ![image](_data/../../_site/assets/img/favicons/deckbuilder.png) 
