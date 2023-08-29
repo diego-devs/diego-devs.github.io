@@ -1,3 +1,11 @@
+---
+title: Bitacora Dev Construyendo un Creador de Mazos de Yu-Gi-Oh con ASP.NET Core
+date: 2023-08-28 11:07:00 -500
+categories: [proyectos personales,software, development] 
+tags: [.net7,c#,unity,yugioh,asp.net core, async] # Tag names should ALWAYS be lowercase
+author: Diego_D
+---
+![image](_data/../../_site/assets/img/favicons/deckbuilder.png) 
 # Bitacora Dev - Construyendo un Creador de Mazos de Yu-Gi-Oh con ASP.NET Core (*****update*****)
 ¡Bienvenido a esta bitácora de desarrollo! 
 En este artículo, compartiré los avances y funcionalidades del Creador de Mazos de Yu-Gi-Oh utilizando .NET 6 y ASP.NET Core.
@@ -60,6 +68,9 @@ Una de las características es la disposición dividida en la página "DeckBuild
 </div>
 
 ```
+## Hand Testing
+Work in progress...
+
 # Próximos Pasos
 Aunque he logrado avances en este Creador de Mazos de Yu-Gi-Oh, todavía hay mucho por hacer. El próximo paso será implementar funcionalidades para hacer que las cartas de la lista de búsqueda sean seleccionables y agregables al mazo cargado. También estoy planeando incorporar interactividad adicional para mejorar la experiencia del usuario.
 
