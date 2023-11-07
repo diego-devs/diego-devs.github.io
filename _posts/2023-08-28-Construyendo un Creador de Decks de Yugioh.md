@@ -6,7 +6,7 @@ tags: [.net7,c#,unity,yugioh,asp.net core, async] # Tag names should ALWAYS be l
 author: <author_id>
 comments: true
 ---
-![image](_site/assets/img/favicons/deckbuilder1.png) 
+![image](/assets/img/deckbuilder1.png) 
 # Bitacora Dev - Construyendo un Creador de Mazos de Yu-Gi-Oh con ASP.NET Core (*****update*****)
 ¡Bienvenido a esta bitácora de desarrollo! 
 En este artículo, compartiré los avances y funcionalidades del Creador de Mazos de Yu-Gi-Oh utilizando .NET 6 y ASP.NET Core.
