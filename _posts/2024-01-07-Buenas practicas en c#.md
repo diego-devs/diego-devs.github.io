@@ -13,7 +13,7 @@ En el vasto mundo de la programación, adoptar buenas prácticas no solo es esen
 
 ## 1. Claridad y Legibilidad del Código:
    
-Uno de los aspectos fundamentales de las buenas prácticas en C# es mantener un código claro y legible. ** Utilizar nombres de variables descriptivos**, dividir el código en funciones coherentes y seguir las convenciones de nomenclatura son elementos clave. Por ejemplo:
+Uno de los aspectos fundamentales de las buenas prácticas en C# es mantener un código claro y legible. **Utilizar nombres de variables descriptivos**, dividir el código en funciones coherentes y seguir las convenciones de nomenclatura son elementos clave. Por ejemplo:
 
 ```csharp
 // Malas prácticas
