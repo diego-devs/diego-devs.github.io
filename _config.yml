@@ -21,10 +21,10 @@ timezone: America/Mexico_City
 
 title: Diego Devs                          # the main title
 
-tagline: Blog de desarrollo de software  # it will display as the sub-title
+tagline: DevBlog  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Mi blog personal y profesional sobre desarrollo de software y tecnologias.
+  Blog de desarrollo enfocado en C#, .NET y Microsoft. Comparto aprendizajes y experiencias en este recorrido.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://diego-devs.github.io'
