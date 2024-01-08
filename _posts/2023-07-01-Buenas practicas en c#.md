@@ -1,6 +1,6 @@
 ---
 title: Las buenas prácticas en C#
-date: 2023-08-28 11:07:00 -500
+date: 2023-07-01 11:07:00 -500
 categories: [software, development, tips] 
 tags: [.net7,c#] # Tag names should ALWAYS be lowercase
 author: <author_id>
