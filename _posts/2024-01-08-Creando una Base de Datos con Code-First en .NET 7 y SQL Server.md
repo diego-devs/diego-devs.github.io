@@ -7,7 +7,6 @@ author: <author_id>
 comments: true
 ---
 
-# Creando una Base de Datos con Code-First en .NET 7 y SQL Server 
 ## Una Guía Práctica Inicial de Entity Framework Core
 
 El desarrollo de aplicaciones en **.NET** ha evolucionado considerablemente a lo largo de los años, y con la llegada de .NET 8, la metodología **Code-First** se ha vuelto aún más poderosa y fácil de usar gracias a **Entity Framework Core**, el *ORM* por excelencia del universo Microsoft. 
