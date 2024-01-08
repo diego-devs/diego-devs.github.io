@@ -17,7 +17,7 @@ El desarrollo de aplicaciones en **.NET** ha evolucionado considerablemente a lo
 
 El ORM se encarga de mediar entre **el mundo de los objetos** de la POO (Programación Orientada a Objetos) donde usamos clases, **y el mundo de las bases de datos relacionales**, en donde se manejan tablas. 
 
-<img src="/assets/img/iaqbt7xhkmiol22fpnot.jpg" alt="image" width="300" height="200" />
+<img src="/assets/img/iaqbt7xhkmiol22fpnot.jpg" alt="image" width="400" height="300" />
 
 <!-- ![image](/assets/img/iaqbt7xhkmiol22fpnot.jpg)  -->
 
