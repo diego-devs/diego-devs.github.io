@@ -7,9 +7,9 @@ author: <author_id>
 comments: true
 ---
 
-# Título: La Importancia de las Buenas Prácticas en C# para el Desarrollo Personal
+# La Importancia de las Buenas Prácticas en C# para Mantener un Codigo Legible y Mantenible a Largo Plazo
 
-En el vasto mundo de la programación, adoptar buenas prácticas no solo es esencial para el desarrollo de software **eficiente** y **sostenible**, sino que también tiene un impacto significativo en el crecimiento personal de los programadores. Exploremos la importancia de aplicar buenas prácticas en el lenguaje de programación C#, con ejemplos que ilustrarán cómo estas prácticas pueden marcar la diferencia en tu trayectoria como desarrollador.
+En el vasto mundo de la programación, adoptar buenas prácticas no solo es esencial para el desarrollo de software **eficiente** y **sostenible**, sino que también tiene un impacto significativo en el crecimiento personal de los programadores. Exploremos la importancia de aplicar buenas prácticas en este genial lenguaje.
 
 ## 1. Claridad y Legibilidad del Código:
    
@@ -17,9 +17,9 @@ Uno de los aspectos fundamentales de las buenas prácticas en C# es mantener un 
 
 ```csharp
 // Malas prácticas
-int a = 10;
-int b = 5;
-int c = a + b;
+int z = 10;
+int x = 5;
+int y = a + b;
 
 // Buenas prácticas
 int velocidadInicial = 10;
@@ -35,9 +35,9 @@ Es crucial seguir las convenciones de nomenclatura al escribir en C#. El Pascal 
 
 ```csharp
 // Pascal Casing
-public class MiClase
+public class DataAccess
 {
-    public void MiMetodo()
+    public void GetFiles()
     {
         // Código del método
     }
@@ -55,7 +55,7 @@ Seguir estas convenciones no solo es una buena práctica, sino que también faci
 
 ## 3. Manejo de Excepciones:
    
-El manejo adecuado de excepciones es esencial para construir aplicaciones robustas. En lugar de capturar excepciones genéricas, es preferible identificar y manejar específicamente los tipos de excepciones que pueden surgir. Ejemplo:
+En este punto sabrás que el manejo adecuado de excepciones es esencial para construir aplicaciones robustas. En lugar de capturar excepciones genéricas, es preferible identificar y manejar específicamente los tipos de excepciones que pueden surgir. Ejemplo:
 
 ```csharp
 // Malas prácticas
@@ -91,24 +91,68 @@ C# es un lenguaje orientado a objetos, y aprovechar sus características de POO 
 
 ```csharp
 // Malas prácticas
-static void CalcularArea(int lado)
+public class ManejoDatos
 {
-    // Código procedural
+    // Método para concatenar y formatear texto sin claridad
+    public string CrearMensaje(string nombre, int edad)
+    {
+        string mensaje = "¡Hola, " + nombre + "! Tienes " + edad + " años.";
+        return mensaje;
+    }
 }
 
 // Buenas prácticas
-class Cuadrado
+public class SaludoPersonalizado
 {
-    public int Lado { get; set; }
+    private string nombre;
+    private int edad;
 
-    public int CalcularArea()
+    // Propiedades para establecer nombre y edad
+    public string Nombre
     {
-        return Lado * Lado;
+        get => nombre;
+        set => nombre = value;
+    }
+
+    public int Edad
+    {
+        get => edad;
+        set => edad = value;
+    }
+
+    // Método modularizado para crear un mensaje de saludo personalizado
+    public string CrearMensaje()
+    {
+        return $"¡Hola, {Nombre}! Tienes {Edad} años.";
     }
 }
+
+
 ```
 
 La programación orientada a objetos no solo organiza mejor el código, sino que también promueve la reutilización y extensibilidad.
+
+## 5. Comentarios Detallados:
+
+- **Precisión sobre Complejidad**: Limita los comentarios a partes complejas o que necesiten aclaraciones.
+
+- **Sencillez y Propósito**: Mantén los comentarios simples y centrados en su propósito, describiendo de manera precisa el código.
+
+- **Profesionalismo:** Ya todos vimos los hilarantes comentarios en el código fuente de **GTA V**. Evita comentarios groseros o inapropiados; mantén un tono profesional en tus explicaciones (a menos de que seas desarrollador de *Rockstar Games*)
+
+- **Coherencia con Cambios**: Si modificas una porción de código, asegúrate de actualizar los comentarios correspondientes para mantener la coherencia.
+
+- **Concisión**: Opta por líneas de comentarios cortas y evita la redundancia. No expliques lo obvio.
+
+- **Adherencia a Convenciones**: Únete a las convenciones de comentarios de **tú equipo** para una uniformidad en la documentación.
+
+- **Eliminación de Comentarios de Diagnóstico**: Utiliza comentarios para aislar problemas, pero elimínalos una vez resueltos para mantener un código limpio.
+
+- **Función de Depuración**: Recuerda que los comentarios no solo documentan, también son herramientas para depurar y encontrar errores.
+
+Los comentarios de calidad no solo enriquecen la documentación de tu código, sino que también facilitan el entendimiento y la colaboración, **contribuyendo a un desarrollo más eficiente y mantenible.** 
+
+Por favor, comenta tu código. 
 
 ## Conclusión:
 
