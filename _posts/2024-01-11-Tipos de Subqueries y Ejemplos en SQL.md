@@ -1,5 +1,5 @@
 ---
-title: Tipos de Subqueries en SQL
+title: Tipos de Subqueries y Ejemplos en SQL
 date: 2024-01-11 20:07:00 -500
 categories: [software, development, backend, databases, SQL] 
 tags: [SQL Server] # Tag names should ALWAYS be lowercase
@@ -7,7 +7,6 @@ author: <author_id>
 comments: true
 ---
 ![image](/assets/img/sql_image.jpg)
-### Introducción:
 
 En mi constante batalla como desarrollador, me encuentro diariamente con innumerables consultas diseñadas para diversas bases de datos, cada una con cientos de tablas. Una excelente manera de refinar las consultas y limitar los datos es mediante el uso de subconsultas. A lo largo de mi breve trayectoria trabajando con SQL, he notado que los subqueries suelen representar un desafío, especialmente para aquellos que están dando sus primeros pasos en el lenguaje. Bueno, ciertamente ha sido mi caso.
 
