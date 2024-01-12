@@ -1,5 +1,5 @@
 ---
-title: Tipos de subqueries en SQL
+title: Tipos de Subqueries en SQL
 date: 2024-01-11 20:07:00 -500
 categories: [software, development, backend, databases, SQL] 
 tags: [SQL Server] # Tag names should ALWAYS be lowercase
