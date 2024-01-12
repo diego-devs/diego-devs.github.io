@@ -33,19 +33,19 @@ Imaginemos que gestionamos una agencia de publicidad y vendemos videos para marc
 
 #### Tabla: Videos
 
-![image](/assets/img/sql_1_tablaVideos.png)
+![image](/assets/img/sql_1_tablaVideos.jpg)
 
 #### Tabla: Editores
 
-![image](/assets/img/sql_1_tablaEditores.png)
+![image](/assets/img/sql_1_tablaEditores.jpg)
 
 #### Tabla: Marcas
 
-![image](/assets/img/sql_1_tablaMarcas.png)
+![image](/assets/img/sql_1_tablaMarcas.jpg)
 
 #### Tabla: Ventas
 
-![image](/assets/img/sql_1_tablaVentas.png)
+![image](/assets/img/sql_1_tablaVentas.jpg)
 
 Ahora, exploremos estos datos mediante consultas SQL con diferentes tipos de subconsultas.
 
@@ -63,7 +63,7 @@ WHERE precio_listado > (
 ```
 Resultados:
 
-![image](/assets/img/sql_1_1.png)
+![image](/assets/img/sql_1_1.jpg)
 
 Nuestra subconsulta está en la cláusula WHERE, donde filtra el conjunto de resultados según el precio listado. Esta subconsulta devuelve un único valor: el precio promedio por video. Cada precio listado se compara con este valor y solo los videos que tienen un precio por encima del promedio llegan al resultado final.
 
@@ -83,7 +83,7 @@ WHERE editores.id IN (
 ```
 Resultados:
 
-![image](/assets/img/sql_1_2.png)
+![image](/assets/img/sql_1_2.jpg)
 
 Curiosamente, podríamos obtener el mismo resultado sin una subconsulta utilizando un ```INNER JOIN``` (o simplemente ```JOIN```). Este tipo de unión devuelve solo los registros que se pueden encontrar en ambas tablas. Entonces, si unimos las tablas de editores y ventas, obtendremos una lista de editores con registros correspondientes en la tabla de ventas. Nota: También he utilizado la palabra clave ```DISTINCT``` aquí para eliminar duplicados del resultado.
 
@@ -119,7 +119,7 @@ ON editores.id = ventas_editor.editor_id;
 ```
 Resultados:
 
-![image](/assets/img/sql_1_3.png)
+![image](/assets/img/sql_1_3.jpg)
 
 Asignamos un alias significativo a la salida de nuestra subconsulta (ventas_editor). De esta manera, podemos referirnos fácilmente a ella en la consulta externa, al seleccionar la columna de esta tabla y al definir la condición de unión en la cláusula ```ON```. Nota: Las bases de datos arrojarán un error si no proporcionas un alias para la salida de tu subconsulta.
 
@@ -145,7 +145,7 @@ FROM editores;
 ```
 Resultados:
 
-![image](/assets/img/sql_1_4.png)
+![image](/assets/img/sql_1_4.jpg)
 
 
 ### Ejemplo 5 - Subconsulta Correlativa
@@ -163,7 +163,7 @@ WHERE NOT EXISTS (
 ```
 Resultados:
 
-![image](/assets/img/sql_1_5.png)
+![image](/assets/img/sql_1_5.jpg)
 
 Esto es lo que sucede en esta consulta:
 
