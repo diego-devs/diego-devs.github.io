@@ -6,14 +6,15 @@ tags: [SQL Server] # Tag names should ALWAYS be lowercase
 author: <author_id>
 comments: true
 ---
-
+![image](/assets/img/sql_image.jpg)
 ### Introducción:
 
-Mi trabajo actual como desarrollador a menudo conlleva enfrentarme a docenas de queries hechos para distintas bases de datos, cada una con cientos de tablas listas para devorarme. A lo largo de todo este tiempo de alegría y llanto trabajando con SQL, me he dado cuenta que los **subqueries** o **subconsultas** suelen ser un reto para los principiantes en el lenguaje. Bueno, ciertamente ha sido mi caso. 
+En mi constante batalla como desarrollador, me encuentro diariamente con innumerables consultas diseñadas para diversas bases de datos, cada una con cientos de tablas. Una excelente manera de refinar las consultas y limitar los datos es mediante el uso de subconsultas. A lo largo de mi breve trayectoria trabajando con SQL, he notado que los subqueries suelen representar un desafío, especialmente para aquellos que están dando sus primeros pasos en el lenguaje. Bueno, ciertamente ha sido mi caso.
 
-Resulta que los subqueries, son una herramienta fundamental para comunicarse de manera efectiva con las bases de datos relacionales, no solo con SQL. Pero por ahora mantengámonos con éste. 
+Las subconsultas son fundamentales para delimitar los datos en tus consultas. Y aunque hasta hace poco, mi principal herramienta para consultar bases de datos era Entity Framework Core, [*ORM*](https://en.wikipedia.org/wiki/Object-relational_mapping) quien se encarga de la "traducción" entre el mundo de los objetos y el de las bases de datos relacionales ([puedes leer sobre mis hazañas creando una base de datos con Code First y Entity Framework Core](https://diego-devs.github.io./posts/Creando-una-Base-de-Datos-con-Code-First-en-.NET-7-y-SQL-Server-copy/)), siempre es genial aprender algo nuevo y enriquecer nuestros conocimientos en SQL.  
 
-Proporcionaré cinco ejemplos de subconsultas que demuestran cómo utilizar subconsultas escalares, de varias filas y correlativas en las cláusulas ```WHERE```, ```FROM/JOIN``` y ```SELECT```.
+Sin más preámbulos, estos ejemplos te ayudarán a entender mejor, paso a paso, lo que a veces parece ser un misterioso arte oscuro en SQL.
+
 
 ### Qué es un Subquery o Subconsulta
 
