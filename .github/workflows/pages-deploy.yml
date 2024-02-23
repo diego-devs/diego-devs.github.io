@@ -38,9 +38,6 @@ jobs:
         id: pages
         uses: actions/configure-pages@v1
 
-      - name: Update Bundler
-        run: gem update bundler
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
