@@ -38,11 +38,14 @@ jobs:
         id: pages
         uses: actions/configure-pages@v1
 
+      - name: Update Bundler
+        run: gem update bundler
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.0.4 # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
-          bundler-cache: true
+          bundler-cache: false
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
