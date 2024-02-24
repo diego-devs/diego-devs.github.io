@@ -18,7 +18,7 @@ Una API (Interfaz de Programación de Aplicaciones) es esencial para la comunica
 
 La analogía del mesero en un restaurante simplifica el concepto de una API. La cocina, donde se preparan los platos, es el backend, y los comensales representan a los usuarios finales. El mesero, actuando como la API, facilita la comunicación entre ambos, llevando los pedidos a la cocina y entregando los platos a los clientes. Esta comparación destaca cómo las APIs permiten interacciones eficientes entre el backend y los usuarios, sin que estos últimos necesiten entender los detalles técnicos del proceso o saber si las salsas están todas hechas. Los clientes solo quieren que su platillo llegue caliente y listo para comer. 
 
-![image](/assets/img/api_3.png)
+![image](/assets/img/apiexample.jpg)
 
 En el contexto del desarrollo de software, esto se traduce en un intercambio de datos y funcionalidades entre distintas aplicaciones o componentes de software.
 
