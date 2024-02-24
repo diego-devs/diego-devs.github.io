@@ -1,6 +1,6 @@
 ---
-title: Creando una Minimal API con .NET 8 
-date: 2024-02-23 20:07:00 -500
+title: Creando una Minimal API con dotnet 8 
+date: 2024-02-23 12:00:00 -500
 categories: [software, development, backend, .NET8, APIs] 
 tags: [api, .net8, c#] # Tag names should ALWAYS be lowercase
 author: <author_id>
@@ -149,7 +149,6 @@ deberías ver algo como esto:
 ![image](/assets/img/results_minimal_api.PNG)
 
 **¡Listo!** Así de fácil es crear Minimal APIs con .NET 8 y C#. 
-
 
 
 ## Prueba de la API
