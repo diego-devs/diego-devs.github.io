@@ -27,8 +27,6 @@ Aquí tienes algunos ejemplos de lo que puede hacer ahora mismo:
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">10. Un gato atigrado blanco y naranja corre por un callejón en una lluvia intensa, buscando refugio...<a href="https://t.co/x9TLcHnji0">pic.twitter.com/x9TLcHnji0</a></p>&mdash; Alejandro | Copywriting Liberador (@CopyRebeldia) <a href="https://twitter.com/CopyRebeldia/status/1762097171640275227?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">2. Un buceador descubre un naufragio futurista oculto.<a href="https://t.co/7P7Sp2LYP5">pic.twitter.com/7P7Sp2LYP5</a></p>&mdash; Alejandro | Copywriting Liberador (@CopyRebeldia) <a href="https://twitter.com/CopyRebeldia/status/1762095790028153290?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 Es una locura. 
 
