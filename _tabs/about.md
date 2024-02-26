@@ -20,7 +20,7 @@ Fue durante la pandemia que decidí dar un giro radical a mi carrera y reenfocar
 
 Mi camino hacia el desarrollo de software ha sido impulsado por mi firme creencia en el aprendizaje autodidacta. He participado en programas de capacitación como el bootcamp en línea Launch X de Microsoft, así como en cursos de certificación como el DOU Certified Tester en DevOps de Qualizens, preparación para el examen de certificación ISTQB® Certified Tester Foundation Level.
 
-Como desarrollador web freelance, adquirí experiencia trabajando por mi cuenta antes de unirme a Global Hitss. También he tenido roles anteriores como Junior Web Developer en TV Nichos (conocido como AyTvs), donde gestioné el CMS de la empresa y desarrollé sitios web estáticos con un enfoque en gamificación. 
+Como desarrollador web freelance, adquirí experiencia trabajando por mi cuenta antes de unirme a Global Hitss. También he tenido roles anteriores, en 2017 - 2018, como Junior Web Developer en TV Nichos (conocido como AyTvs), donde gestioné el CMS de la empresa y desarrollé sitios web estáticos con un enfoque en gamificación.  
 
 ## Nos leemos por acá
 
