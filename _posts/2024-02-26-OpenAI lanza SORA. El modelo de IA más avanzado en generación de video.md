@@ -20,11 +20,14 @@ Es el primer modelo de IA capaz de crear videos realistas de hasta un minuto de 
 
 Aquí tienes algunos ejemplos de lo que puede hacer ahora mismo:
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Prompt: “Animated scene features a close-up of a short fluffy monster kneeling beside a melting red candle. the art style is 3d and realistic, with a focus on lighting and texture. the mood of the painting is one of wonder and curiosity, as the monster gazes at the flame with… <a href="https://t.co/aLMgJPI0y6">pic.twitter.com/aLMgJPI0y6</a></p>&mdash; OpenAI (@OpenAI) <a href="https://twitter.com/OpenAI/status/1758192964222988506?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Prompt: “A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. she wears a black leather jacket, a long red dress, and black boots, and carries a black purse. she wears sunglasses and red lipstick. she walks confidently and casually.… <a href="https://t.co/cjIdgYFaWq">pic.twitter.com/cjIdgYFaWq</a></p>&mdash; OpenAI (@OpenAI) <a href="https://twitter.com/OpenAI/status/1758192965703647443?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Prompt: “A movie trailer featuring the adventures of the 30 year old space man wearing a red wool knitted motorcycle helmet, blue sky, salt desert, cinematic style, shot on 35mm film, vivid colors.” <a href="https://t.co/0JzpwPUGPB">pic.twitter.com/0JzpwPUGPB</a></p>&mdash; OpenAI (@OpenAI) <a href="https://twitter.com/OpenAI/status/1758192961496760376?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">10. Un gato atigrado blanco y naranja corre por un callejón en una lluvia intensa, buscando refugio...<a href="https://t.co/x9TLcHnji0">pic.twitter.com/x9TLcHnji0</a></p>&mdash; Alejandro | Copywriting Liberador (@CopyRebeldia) <a href="https://twitter.com/CopyRebeldia/status/1762097171640275227?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">2. Un buceador descubre un naufragio futurista oculto.<a href="https://t.co/7P7Sp2LYP5">pic.twitter.com/7P7Sp2LYP5</a></p>&mdash; Alejandro | Copywriting Liberador (@CopyRebeldia) <a href="https://twitter.com/CopyRebeldia/status/1762095790028153290?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Es una locura. 
@@ -85,4 +88,14 @@ Es emocionante echar a volar la imaginación y preguntarse otra duda imposible d
 
 Si algo me queda claro, es que el futuro será algo... bizarro; semejante a lo que ya nos hemos imaginado, pero mucho mejor.  
 
-![image](/assets/img/future%20technologi.webp)
+Más videos asombrosos generados por Sora: 
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">El equipo de OpenAI sigue publicando videos impresionantes de Sora. <br><br>Aquí tienes una descripción de 10 nuevos videos:<br><br>1. Una tortuga cuyo cuerpo está hecho de vidrio, con grietas reparadas usando kintsugi.<a href="https://t.co/HzR504yBJL">pic.twitter.com/HzR504yBJL</a></p>&mdash; Alejandro | Copywriting Liberador (@CopyRebeldia) <a href="https://twitter.com/CopyRebeldia/status/1762095281712091579?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">4. Fiesta de gatos dentro de un club oscuro con luces LED.<a href="https://t.co/UzQoYQyLQt">pic.twitter.com/UzQoYQyLQt</a></p>&mdash; Alejandro | Copywriting Liberador (@CopyRebeldia) <a href="https://twitter.com/CopyRebeldia/status/1762096109462151418?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">2. Un buceador descubre un naufragio futurista oculto.<a href="https://t.co/7P7Sp2LYP5">pic.twitter.com/7P7Sp2LYP5</a></p>&mdash; Alejandro | Copywriting Liberador (@CopyRebeldia) <a href="https://twitter.com/CopyRebeldia/status/1762095790028153290?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Reporte técnico de Sora por OpenAI](https://openai.com/research/video-generation-models-as-world-simulators)
+
+[Sitio oficial de Sora](https://openai.com/sora)
