@@ -50,9 +50,6 @@ Mis reflexiones iniciales, compartidas por el 100% de las personas con quienes h
 
 Habiendo trabajado casi cinco años en producción audiovisual, mi reacción inicial ante *Sora* fue pensar que por lo menos, la industria del stock de video estaba condenada. Por otro lado, consideremos que, anteriormente, para crear un anuncio publicitario necesitabas contar con una agencia y una productora de video, además de invertir decenas o cientos de miles de pesos en equipo y en personal tanto creativo como técnico. Ahora, eso ya no es necesario. Simplemente escribes "Toma de dron sobre un volcán activo", y ¡voilà! Obtienes una toma de dron cinematográfica perfecta.
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Prompt: “A movie trailer featuring the adventures of the 30 year old space man wearing a red wool knitted motorcycle helmet, blue sky, salt desert, cinematic style, shot on 35mm film, vivid colors.” <a href="https://t.co/0JzpwPUGPB">pic.twitter.com/0JzpwPUGPB</a></p>&mdash; OpenAI (@OpenAI) <a href="https://twitter.com/OpenAI/status/1758192961496760376?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 ## Creación de contenido como nunca antes
 
 Sin duda vamos a presenciar una revolución en la **edición de video automatizada**, la producción **cinematográfica** e incluso el diseño de **videojuegos**. 
@@ -63,13 +60,11 @@ Vamos a presenciar la aparición de personas generadas por IA que parecen **comp
 
 Todo parece que sí, el futuro es tal y como nos lo contó Hollywood. 
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Prompt: “Several giant wooly mammoths approach treading through a snowy meadow, their long wooly fur lightly blows in the wind as they walk, snow covered trees and dramatic snow capped mountains in the distance, mid afternoon light with wispy clouds and a sun high in the distance… <a href="https://t.co/Um5CWI18nS">pic.twitter.com/Um5CWI18nS</a></p>&mdash; OpenAI (@OpenAI) <a href="https://twitter.com/OpenAI/status/1758192960116785459?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Algo todavía más loco es pensar que la física no fue codificada, sino que es una **condicion emergente a raíz de imitar la realidad**. Los avances que esto pueda traer en otros rubros como las **investigaciones científicas** actuales son una duda emocionante. 
 
 Y no olvidemos a los amantes de la **historia** que por fin podremos ver eventos históricos con un realismo indistinguible: Los primeros humanos, la vida de Jesús, el Imperio Romano en su apogeo o a Hernán Cortés y Moctezuma entrando a Tenochtitlán. 
 
-
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Prompt: “Several giant wooly mammoths approach treading through a snowy meadow, their long wooly fur lightly blows in the wind as they walk, snow covered trees and dramatic snow capped mountains in the distance, mid afternoon light with wispy clouds and a sun high in the distance… <a href="https://t.co/Um5CWI18nS">pic.twitter.com/Um5CWI18nS</a></p>&mdash; OpenAI (@OpenAI) <a href="https://twitter.com/OpenAI/status/1758192960116785459?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Fase de investigación y pruebas.
