@@ -1,7 +1,7 @@
 ---
 title: OpenAI lanza SORA. El modelo de IA más avanzado en generación de video. 
 date: 2024-02-26 12:00:00 -500
-categories: [technology, noticias, OpenAI, ChatGPT, SORA] 
+categories: [technology, noticias, OpenAIm ChatGPT, SORA] 
 tags: [IA, Noticias, OpenAI] # Tag names should ALWAYS be lowercase
 author: <author_id>
 comments: true
