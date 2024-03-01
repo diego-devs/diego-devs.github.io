@@ -15,9 +15,8 @@ En un mundo donde la tecnología avanza exponencialmente, el campo del desarroll
 # El Amanecer de una Nueva Era en Tecnología
 Durante su participación en World Government Summit en Dubái, Huang expresó una visión revolucionaria: el desarrollo de tecnologías computacionales que no requieran programación convencional, donde el lenguaje humano sea el "lenguaje de programación". Este enfoque promete transformar a cada individuo en un programador, desdibujando las líneas entre los expertos en tecnología y el público general. 
 
-[Conversación completa con Jensen Huang en YouTube](https://www.youtube.com/watch?v=8Pm2xEViNIo)
+**Conversación completa con Jensen Huang**
 
-![image](/assets/img/1200_800.jpeg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Pm2xEViNIo?si=cvz3mJx3SqMgdr4J&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -42,9 +41,11 @@ La recomendación de Huang de familiarizarse con la IA generativa subraya la imp
 La convergencia de la ingeniería de software y la ingeniería de prompts promete abrir nuevas avenidas de innovación y colaboración. A medida que estas disciplinas se entrelazan, surgirán oportunidades únicas para aquellos dispuestos a explorar las fronteras de la tecnología y la IA.
 
 # Conclusión
-Lejos de ser una amenaza, creo que todos podemos entender que la ascensión de la ingeniería de prompts junto con el avance de la IA representa una evolución natural en el campo del desarrollo de software. El punto siempre ha sido hacer las cosas más fáciles y la tecnología parece ser cada vez más "mágica". Al abrazar estas tecnologías y adaptarse a los cambios, los desarrolladores pueden asegurar su lugar en el futuro de la tecnología, marcado por una colaboración cada vez mayor entre la inteligencia humana y artificial.
+Lejos de ser una amenaza, creo que todos podemos vislumbrar que la ascensión de la ingeniería de prompts junto con el avance de la IA representa una evolución natural en el desarrollo de software. El punto siempre ha sido hacer las cosas más fáciles y la tecnología parece ser cada vez más "mágica". Al abrazar estas tecnologías y adaptarse a los cambios, los desarrolladores podemos asegurar nuestro lugar en el futuro de la tecnología, el cual será una colaboración cada vez mayor entre la inteligencia humana y artificial. 
 
-La clave para navegar este futuro no es resistirse al cambio, sino adoptar un espíritu de aprendizaje continuo y adaptabilidad. Ese todos los desarrolladores decimos tener. Entonces en lugar de preocuparnos, hay que ocuparnos. Esta encrucijada en la revolución tecnológica hace que el potencial para innovar y crear sea más grande que nunca y hay que aprovecharla. 
+La clave para navegar este futuro no es resistirse al cambio, sino adoptar un espíritu de aprendizaje continuo y adaptabilidad. Ese que todos los desarrolladores decimos y decidimos tener. Entonces en lugar de preocuparnos, hay que ocuparnos. Esta nueva era de revolución tecnológica hace que el potencial para innovar y crear sea más grande que nunca y hay que aprovecharlo. 
 
-Sígueme todas mis redes sociales: 
+Saludos!
+
+Sígueme todas mis redes sociales. 
 
