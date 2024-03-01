@@ -6,14 +6,14 @@ tags: [IA] # Tag names should ALWAYS be lowercase
 author: <author_id>
 comments: true
 ---
-![image](/assets/img/software%20prompts.webp)
+![image](/assets/img/Dubai_Jensen_Huang_Stage-scaled.jpg)
 
-# La Convergencia de la Ingeniería de Software y la Ingeniería de Prompts: Un Futuro Impulsado por la IA
+# La Convergencia de la Ingeniería de Software y la Ingeniería de Prompts
 
-En un mundo donde la tecnología avanza exponencialmente, el campo del desarrollo de software se encuentra en una encrucijada preocupante pero fascinante. La aparición de la inteligencia artificial (IA) ha iniciado el debate: **¿Podría la ingeniería de prompts superar a la ingeniería de software?** Esta pregunta, alimentada por comentarios de líderes tecnológicos como *Jensen Huang*, cofundador de *Nvidia*, invita a una reflexión sobre el futuro de nuestra profesión.
+En un mundo donde la tecnología avanza exponencialmente, el desarrollo de software se encuentra en una encrucijada preocupante pero fascinante. La aparición de la inteligencia artificial (IA) ha iniciado el debate: **¿Podría la ingeniería de prompts superar a la ingeniería de software?** Esta pregunta, alimentada por comentarios de líderes tecnológicos como *Jensen Huang*, cofundador de **Nvidia**, invita a una reflexión sobre el futuro de la programación.
 
 # El Amanecer de una Nueva Era en Tecnología
-Durante su participación en World Government Summit en Dubái, Huang expresó una visión revolucionaria: el desarrollo de tecnologías computacionales que no requieran programación convencional, donde el lenguaje humano sea el "lenguaje de programación". Este enfoque promete transformar a cada individuo en un programador, desdibujando las líneas entre los expertos en tecnología y el público general. 
+Durante su participación en World Government Summit en Dubái, el CEO de *Nvidia*, Jensen Huang expresó una visión revolucionaria: el desarrollo de tecnologías computacionales que no requieran programación convencional, donde el lenguaje humano sea el "lenguaje de programación". Este enfoque promete transformar a cada individuo en un programador, desdibujando las líneas entre los expertos en tecnología y el público general. La idea detrás de esta lógica es que el camino natural de la programación y la tecnología siempre es hacer las cosas más fáciles para los humanos.  
 
 **Conversación completa con Jensen Huang**
 
@@ -32,7 +32,7 @@ La integración de la IA en el desarrollo de software ha traído consigo herrami
 # Evolución, No Sustitución
 Contrario a la idea de que la ingeniería de prompts podría reemplazar a la ingeniería de software, lo que estamos presenciando es una evolución de roles. Los desarrolladores tienen la oportunidad de integrar la IA en su flujo de trabajo, ampliando sus capacidades y eficiencia. La clave está en aprender a coexistir con estas herramientas, aprovechando su potencial para mejorar nuestros procesos de desarrollo.
 
-![image](/assets/img/Blog-post-Top-10-Artificial-Intelligence-Technologies-01.jpg)
+![image](/assets/img/softplanplanejamentoesistemasltda_softplan_image_175.jpeg)
 
 # Preparándose para el Futuro
 La recomendación de Huang de familiarizarse con la IA generativa subraya la importancia de adaptarse a estas nuevas herramientas. La capacidad para aprender y evolucionar constantemente será más valiosa que nunca en este nuevo panorama tecnológico.
