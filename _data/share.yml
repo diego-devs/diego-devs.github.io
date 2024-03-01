@@ -21,7 +21,7 @@ platforms:
     icon: "fab fa-linkedin"
     link: "https://www.linkedin.com/in/diego-diaz-mendoza/"
   #
-  # -
-  #   type: Weibo
-  #   icon: "fab fa-weibo"
-  #   link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"
+  -
+     type: GitHub
+     icon: "fab fa-github"
+     link: "https://github.com/diego-devs"
