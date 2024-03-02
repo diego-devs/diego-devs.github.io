@@ -8,8 +8,6 @@ comments: true
 ---
 ![image](/assets/img/Dubai_Jensen_Huang_Stage-scaled.jpg)
 
-# La Convergencia de la Ingeniería de Software y la Ingeniería de Prompts
-
 En un mundo donde la tecnología avanza exponencialmente, el desarrollo de software se encuentra en una encrucijada preocupante pero fascinante. La aparición de la inteligencia artificial (IA) ha iniciado el debate: **¿Podría la ingeniería de prompts superar a la ingeniería de software?** Esta pregunta, alimentada por comentarios de líderes tecnológicos como *Jensen Huang*, cofundador de **Nvidia**, invita a una reflexión sobre el futuro de la programación.
 
 # El Amanecer de una Nueva Era en Tecnología
