@@ -1,6 +1,6 @@
 ---
 title: Principios SOLID - Single Responsibility Principle
-date: 2024-03-04 12:00:00 -500
+date: 2024-03-10 12:00:00 -500
 categories: [technology, OpenAI, ChatGPT, IA, Prompt] 
 tags: [IA] # Tag names should ALWAYS be lowercase
 author: <author_id>
