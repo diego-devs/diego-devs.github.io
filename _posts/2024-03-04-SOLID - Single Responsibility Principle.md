@@ -1,8 +1,8 @@
 ---
 title: Principios SOLID - Single Responsibility Principle
 date: 2024-03-10 12:00:00 -500
-categories: [technology, OpenAI, ChatGPT, IA, Prompt] 
-tags: [IA] # Tag names should ALWAYS be lowercase
+categories: [technology, development, dotnet, programming, SOLID] 
+tags: [solid, dotnet, programming] # Tag names should ALWAYS be lowercase
 author: <author_id>
 comments: true
 ---
