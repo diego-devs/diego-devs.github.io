@@ -6,7 +6,7 @@ tags: [.net7,c#,unity,yugioh,asp.net core, async] # Tag names should ALWAYS be l
 author: <author_id>
 comments: true
 ---
-![image](/assets/img/2captura.png) 
+![image](/assets/img/2captura.jpg) 
 Bitácora de desarrollo: **Yugioh, visualizador de cartas y constructor de decks**.
 
 En este artículo, compartiré los avances y funcionalidades de esta sencilla aplicación creada con ASP.NET Core, C#, SQL y Javascript. Este proyecto nació del gusto y la nostalgia por el juego de cartas que muchos de los que nacimos en la década de los 90s disfrutamos en nuestra infancia, YuGiOh juego de cartas coleccionables. 
