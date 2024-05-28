@@ -1,6 +1,6 @@
 ---
 title: Principios SOLID - LISKOV substitution principle
-date: 2024-01-04 12:00:00 -500
+date: 2024-04-01 12:00:00 -500
 categories: [technology, development, dotnet, programming, SOLID] 
 tags: [solid, dotnet, programming] # Tag names should ALWAYS be lowercase
 author: <author_id>

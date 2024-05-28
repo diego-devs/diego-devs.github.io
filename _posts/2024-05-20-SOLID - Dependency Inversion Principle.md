@@ -1,6 +1,6 @@
 ---
 title: Principios SOLID - Inversión de Dependencias
-date: 2024-20-05 12:00:00 -500
+date: 2024-05-20 12:00:00 -500
 categories: [technology, development, dotnet, programming, SOLID] 
 tags: [solid, dotnet, programming] # Tag names should ALWAYS be lowercase
 author: <author_id>
@@ -11,7 +11,7 @@ comments: true
 ## Principio de Inversión de Dependencias (D) en SOLID:
 ### Un Guía Completa con Ejemplos en C#
 
-El principio de Inversión de **D**ependencias es el último de los cinco principios SOLID. Este principio, representado por la letra D en el acrónimo SOLID, establece dos reglas fundamentales:
+Hemos llegado al final de los principios SOLID: El Principio de Inversión de **D**ependencias. Este en particular puede 
 
 1.  Los módulos de alto nivel **no deben depender** de módulos de bajo nivel. **Ambos deben depender de abstracciones.**
 
@@ -95,7 +95,7 @@ public class Notification
 Con este enfoque, ``Notification`` ya no está directamente acoplado a ``EmailService``. Ahora depende de la interfaz ``INotificationService``, lo que nos permite cambiar fácilmente la implementación de notificaciones sin modificar la clase ``Notification``.
 
 ## Inyección de Dependencias en C#
-Para gestionar la creación e inyección de dependencias, podemos usar un contenedor de inyección de dependencias como el provisto por **.NET**. Aquí tienes un ejemplo de cómo configurar esto en una aplicación **.NET**: 
+Para gestionar la creación e inyección de dependencias, podemos usar un contenedor de inyección de dependencias como el provisto por **.NET** en nuestra clase Startup.cs (antes de .NET 6) y Program.cs (.NET 6 en adelante).
 
 ```csharp
 public class Startup
@@ -110,10 +110,10 @@ public class Startup
     }
 }
 ```
-## En fin...
+##
 El principio de **Inversión de Dependencias** es esencial para crear aplicaciones flexibles, mantenibles y testables. Al depender de abstracciones en lugar de implementaciones concretas, reducimos el acoplamiento y facilitamos el cambio de componentes en el futuro. Aplicar este principio en tus proyectos de C# no solo mejorará la calidad de tu código, sino que también te permitirá adaptarte más fácilmente a nuevos requisitos y cambios en la tecnología.
 
-**Mis redes:**
+**Sígueme en redes:**
 
 [LinkedIn](https://www.linkedin.com/in/diego-diaz-mendoza/)
 

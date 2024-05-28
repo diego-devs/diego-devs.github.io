@@ -1,6 +1,6 @@
 ---
 title: Principios SOLID - Segregación de Interfaces
-date: 2024-08-05 12:00:00 -500
+date: 2024-05-03 12:00:00 -500
 categories: [technology, development, dotnet, programming, SOLID] 
 tags: [solid, dotnet, programming] # Tag names should ALWAYS be lowercase
 author: <author_id>
