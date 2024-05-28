@@ -117,6 +117,8 @@ public class BossEnemy : IEnemy
 ```
 En este nuevo diseño, utilizamos una interfaz ``IEnemy`` en lugar de una clase base, lo que nos permite tratar a todos los tipos de enemigos de manera intercambiable. Ahora, cualquier clase que implemente la interfaz ``IEnemy`` puede ser utilizada en cualquier contexto donde se espere un enemigo, sin comprometer la coherencia del juego. Esto cumple con el **Principio de Liskov** y nos permite construir un sistema más flexible y mantenible.
 
+Saludos, devs! 
+
 **Mis redes:**
 
 [LinkedIn](https://www.linkedin.com/in/diego-diaz-mendoza/)

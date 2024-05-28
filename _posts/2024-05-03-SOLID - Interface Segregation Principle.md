@@ -126,7 +126,9 @@ Como puedes ver, la clave de la segregación de interfaces es dividir las interf
 
 El principio de segregación de interfaces es una herramienta poderosa para diseñar sistemas de software flexibles y cohesivos. Al dividir las interfaces en unidades más pequeñas y específicas, podemos evitar la dependencia de funcionalidades no deseadas y facilitar el mantenimiento y la expansión del código. Al aplicar este principio en nuestros proyectos en C#, podemos mejorar la modularidad y la escalabilidad de nuestras aplicaciones.
 
-¡Esperamos que estos ejemplos te hayan ayudado a comprender mejor cómo aplicar el principio de segregación de interfaces en tus propios proyectos de desarrollo de software en C#! Si tienes alguna pregunta o comentario, no dudes en dejarlo a continuación.
+Espero que estos ejemplos te hayan ayudado a comprender mejor cómo aplicar el principio de segregación de interfaces en tus propios proyectos de desarrollo de software en C#! Si tienes alguna pregunta o comentario, no dudes en contactarme!
+
+Saludos, marcianos! 
 
 **Mis redes:**
 

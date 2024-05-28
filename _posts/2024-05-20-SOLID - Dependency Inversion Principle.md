@@ -1,8 +1,8 @@
 ---
-title: Principios SOLID - Inversión de Dependencias
+title: SOLID - Dependency Inversion Principle
 date: 2024-05-20 12:00:00 -500
-categories: [technology, development, dotnet, programming, SOLID] 
-tags: [solid, dotnet, programming] # Tag names should ALWAYS be lowercase
+categories: [technology, development, dotnet, programacion, solid] 
+tags: [solid, csharp, programacion] # Tag names should ALWAYS be lowercase
 author: <author_id>
 comments: true
 ---
@@ -113,16 +113,20 @@ public class Startup
 ##
 El principio de **Inversión de Dependencias** es esencial para crear aplicaciones flexibles, mantenibles y testables. Al depender de abstracciones en lugar de implementaciones concretas, reducimos el acoplamiento y facilitamos el cambio de componentes en el futuro. Aplicar este principio en tus proyectos de C# no solo mejorará la calidad de tu código, sino que también te permitirá adaptarte más fácilmente a nuevos requisitos y cambios en la tecnología.
 
+Saludos, devs!
+
 **Sígueme en redes:**
 
-[LinkedIn](https://www.linkedin.com/in/diego-diaz-mendoza/)
+[Twitch](https://twitch.tv/diegocod3s)
 
 [GitHub](https://github.com/diego-devs)
-
-[Twitter](https://twitter.com/Diego_Devs)    
 
 [YouTube](https://www.youtube.com/channel/UCGQmO-aJ9yJSdv_VD8_IDjg)
 
 [TikTok](https://www.tiktok.com/@diegoz.code)
+
+[LinkedIn](https://www.linkedin.com/in/diego-diaz-mendoza/)
+
+[Twitter](https://twitter.com/Diego_Devs)    
 
 [Instagram](https://www.instagram.com/devs.diego/)
