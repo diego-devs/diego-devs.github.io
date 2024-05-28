@@ -61,7 +61,7 @@ public async Task<int> CalculateSumAsync(int[] numbers)
 }
 ```
 
-Lanzar una tarea con `Task.Run` es como decirle a tu jefe que delegue esa molesta reunión al pasante. Aquí, offloadeamos el trabajo pesado de sumar números a un hilo en segundo plano, manteniendo nuestra UI (y nuestra paciencia) intacta.
+Lanzar una tarea con `Task.Run` es como delegar. Aquí, le quitamos el trabajo pesado de sumar números a un hilo en segundo plano, manteniendo nuestra UI (y nuestra paciencia) intacta.
 
 ### La Combinación Ganadora: `IAsyncEnumerable`
 
