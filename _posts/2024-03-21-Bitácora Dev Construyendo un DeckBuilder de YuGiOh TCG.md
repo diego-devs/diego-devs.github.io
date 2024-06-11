@@ -48,7 +48,7 @@ Puedes checar, clonar o hacer fork al proyecto [desde su repositorio en mi GitHu
 
 
 ## Reflexión Final
-Crear **YugiohDeckBuilder** ha sido una práctica enriquecedora , permitiéndome combinar mi gusto por el desarrollo y el juego de Yu-Gi-Oh. A través de este proyecto, he podido profundizar en tecnologías como ASP.NET Core, Javascript y C#. 
+Crear **YugiohDeckBuilder** ha sido una práctica enriquecedora , permitiéndome combinar mi gusto por el desarrollo y la nostalgia de mi infancia. 
 
 Espero que esta bitácora de desarrollo ofrezca una visión clara del trabajo detrás de esta sencilla web app y anime a otros a explorar el código, utilizar la aplicación, y contribuir al proyecto.
 
