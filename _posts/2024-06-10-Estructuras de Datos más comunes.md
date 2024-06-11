@@ -12,10 +12,11 @@ comments: true
 En el vasto mundo del desarrollo de software, donde la magia de convertir ideas en realidad digital ocurre, las estructuras de datos son el núcleo de todo. Sí, esas pequeñas e incomprendidas entidades son las que mantienen a flote nuestras queridas aplicaciones. Sin ellas, estaríamos perdidos en un mar de bits desordenados. Así que, si alguna vez has pensado que puedes sobrevivir sin conocerlas, permíteme decirte que, bueno, buena suerte con eso.
 
 ## ¿Qué son las estructuras de datos?
-Las estructuras de datos son formas específicas de organizar y almacenar datos en la memoria de la computadora para que se puedan usar de manera eficiente. Piensa en ellas como el sistema de organización de tu closet: sin un método, encontrar tus calcetines favoritos sería una tarea imposible. Cada estructura tiene sus propias características y aplicaciones, y vamos a verlas brevemente, como quien no quiere la cosa.
+Las estructuras de datos son formas específicas de organizar y almacenar datos en la memoria de la computadora para que se puedan usar de manera eficiente. Piensa en ellas como el sistema de organización de tu closet: sin un método, encontrar tus calcetines favoritos sería una tarea imposible. Cada estructura tiene sus propias características y aplicaciones, y vamos a verlas brevemente. 
 
 ## Arrays (Arreglos)
-Los arreglos son como la lista de invitados a una fiesta, todos alineados perfectamente en filas. Son colecciones de elementos del mismo tipo, almacenados en posiciones contiguas de memoria. Ideales para cuando necesitas acceder rápidamente a esos elementos, como cuando buscas a tu amigo más cercano en una multitud.
+Los arreglos son como la lista de invitados a una fiesta, todos alineados perfectamente en filas. Son colecciones de elementos del mismo tipo, almacenados en posiciones contiguas de memoria. Ideales para cuando necesitas acceder rápidamente a esos elementos, como cuando buscas a tu amigo más cercano en una multitud. 
+`amigo[n]` n es el identificador de nuestro amigo. Aquí usamos cualquier número entero. 
 ![image](/assets/img/datastructures.webp)
 
 
@@ -25,7 +26,8 @@ Una lista enlazada es una colección de nodos donde cada nodo tiene un valor y u
 
 
 ## Stacks (Pilas)
-Las pilas son las reinas del principio **LIFO** (Last In, First Out). Es como esa pila de platos sucios en el fregadero: el último plato que pones en la pila es el primero que lavas (o al menos debería ser). Útiles para manejar llamadas de funciones, navegación web y esos maravillosos botones de deshacer en editores de texto.
+Las pilas son las reinas del principio **LIFO** (Last In, First Out). Es como esa pila de platos sucios en el fregadero: el último plato que pones en la pila es el primero que lavas (o al menos debería ser). Útiles para manejar llamadas de funciones, navegación web y el mundialmente famoso "control + z".
+
 ![image](/assets/img/stack.jpg)
 
 ## Queues (Colas)
