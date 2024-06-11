@@ -16,10 +16,10 @@ Trataré de hacer los ejemplos en código lo más auto explicativos, así que si
 Primero, un poco de filosofía. ¿Por qué deberías molestarte en usar el patrón Repository? La respuesta corta: separación de preocupaciones.  Este patrón te permite **separar la lógica de acceso a datos de la lógica de negocio**, lo que hace que tu código sea más **limpio**, **fácil de mantener** y, francamente, **más presentable**. Y también impresiona a tus colegas en las revisiones de código. 
 
 ## Configuración del Proyecto
-Empecemos con la craeción y configuración básica de un proyecto .NET 8. Abre tu terminal favorita (la que ya le modificaste hasta el desenfoque del color de fondo) y ejecuta:
+Empecemos con la creación y configuración básica de un proyecto .NET 8. Abre tu terminal favorita (la que ya le modificaste hasta el desenfoque del color de fondo) y ejecuta:
 
 ```ps
-dotnet new webapi -n MyApiWithRepositories 
+dotnet new webapi -n MyAPI 
 cd MyApiWithRepositories
 dotnet add package Microsoft.EntityFrameworkCore
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
