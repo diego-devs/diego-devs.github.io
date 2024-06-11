@@ -10,11 +10,11 @@ comments: true
 
 ### La Programación Asíncrona en C#: Más Allá del ``async`` y ``await``
 
-Ah, la programación asíncrona, ese arte misterioso que hace que nuestras aplicaciones no se congelen más que mi corazón al ver un código mal formateado. En este artículo, vamos a desentrañar los misterios de la programación asíncrona en C# con ejemplos que van más allá del típico "Hello, World!" y el infame `Task.Delay`. Prepárate para un viaje asíncrono que no te dejará colgado (¡o tal vez sí!).
+Ah, la programación asíncrona, ese arte misterioso que hace que nuestras aplicaciones no se congelen y den la ilusión de inmediatez en operaciones complejas. En este artículo, vamos a desentrañar los misterios de la programación asíncrona en C# con ejemplos que van más allá del típico "Hello, World!" y el `Task.Delay`. Prepárate para un viaje asíncrono que no te dejará colgado (¡o tal vez sí!).
 
 #### ¿Por qué Asíncrono?
 
-Antes de entrar en detalles, vamos a desmitificar el porqué de la programación asíncrona. La idea básica es simple: no queremos que nuestra aplicación se quede esperando a que una operación lenta (como la lectura de un archivo o una solicitud HTTP) termine antes de seguir con su vida. En lugar de eso, lanzamos la operación y seguimos adelante, prometiendo (o deberíamos decir "taskeando") volver a ella cuando esté lista.
+Antes de entrar en detalles, vamos a desmitificar el porqué de la programación asíncrona. La idea básica es simple: no queremos que nuestra aplicación se quede esperando a que una operación lenta (como la lectura de un archivo o una solicitud HTTP) termine antes de seguir con su vida. En lugar de eso, lanzamos la operación y seguimos adelante, prometiendo, por medio de una "Tarea" o "Task", volver a ella cuando esté lista.
 
 ### Ejemplo 1: Cuando `await` se Encuentra con `Span<T>`
 
