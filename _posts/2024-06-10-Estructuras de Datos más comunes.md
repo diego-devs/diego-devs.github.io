@@ -8,7 +8,6 @@ comments: true
 ---
 ![image](/assets/img/datastructures1.webp)
 
-# La Importancia de Conocer las Estructuras de Datos Más Comunes
 ## Introducción
 En el vasto mundo del desarrollo de software, donde la magia de convertir ideas en realidad digital ocurre, las estructuras de datos son el núcleo de todo. Sí, esas pequeñas e incomprendidas entidades son las que mantienen a flote nuestras queridas aplicaciones. Sin ellas, estaríamos perdidos en un mar de bits desordenados. Así que, si alguna vez has pensado que puedes sobrevivir sin conocerlas, permíteme decirte que, bueno, buena suerte con eso.
 
@@ -22,7 +21,7 @@ Los arreglos son como la lista de invitados a una fiesta, todos alineados perfec
 
 ## Linked Lists (Listas Enlazadas)
 Una lista enlazada es una colección de nodos donde cada nodo tiene un valor y una referencia al siguiente nodo en la secuencia. Imagina una cadena de margaritas (las flores, no los cócteles), donde cada flor está conectada a la siguiente. Perfectas para cuando necesitas insertar o eliminar elementos con frecuencia sin mover todos los demás elementos alrededor.
-![image](/assets/img/linkedlists.jpg)
+![image](/assets/img/linkedlists1.jpg)
 
 
 ## Stacks (Pilas)
@@ -45,7 +44,7 @@ Las tablas hash mapean claves a valores mediante una función hash. Son extremad
 
 ## Graphs (Grafos)
 Los grafos son conjuntos de nodos (o vértices) y aristas que los conectan. Son esenciales en la representación de redes, como las redes sociales, rutas de transporte y grafos de dependencia en compiladores. Imagina un mapa del metro, con todas esas líneas y estaciones interconectadas, y estarás en el camino correcto.
-![image](/assets/img/Grafos.jpg)
+![image](/assets/img/Grafos1.jpg)
 
 
 ## Conclusión
