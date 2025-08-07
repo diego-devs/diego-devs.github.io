@@ -33,7 +33,7 @@ Y si estás en el mundo del ML más clásico, **Azure Machine Learning** te da t
 
 ## Semantic Kernel: agentes inteligentes en tu app .NET
 
-Una de las piezas más interesantes (y aún poco exploradas) es **Semantic Kernel**, un SDK open source de Microsoft para crear agentes inteligentes que combinan IA generativa con lógica de negocio. Lo que hace diferente a Semantic Kernel es su enfoque modular: puedes definir "skills" que combinan prompts con código, memoria contextual, conectores a plugins, e integraciones con herramientas externas.
+Una de las piezas más interesantes es **Semantic Kernel**, un SDK open source de Microsoft para crear agentes inteligentes que combinan IA generativa con lógica de negocio. Lo que hace diferente a Semantic Kernel es su enfoque modular: puedes definir "skills" que combinan prompts con código, memoria contextual, conectores a plugins, e integraciones con herramientas externas.
 
 Sí, puedes usar GPT directamente, pero Semantic Kernel te da una forma **estructurada y escalable** de construir flujos de IA dentro de tus aplicaciones. Y lo mejor: funciona perfecto con .NET, C#, Blazor y todo el stack Microsoft.
 
