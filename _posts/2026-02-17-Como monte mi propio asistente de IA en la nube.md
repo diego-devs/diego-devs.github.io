@@ -13,11 +13,11 @@ Después de un par de horas de configuración, lo logré. Se llama David — sí
 
 ## La base: Ubuntu en Azure
 
-El primer paso fue levantar una máquina virtual en **Microsoft Azure**. Elegí Ubuntu Server porque es ligero, estable y tiene todo lo que necesitas para correr aplicaciones modernas sin complicarte la vida.
+Todo corre sobre una máquina virtual en **Microsoft Azure** con Ubuntu Server — ligero, estable y con todo lo necesario para aplicaciones modernas.
 
 La VM es modesta — no necesitas una bestia para esto. El asistente de IA no corre localmente; el procesamiento pesado lo hace la API de Anthropic (Claude). Lo que necesitas es un servidor que esté **siempre encendido**, con buena conexión a internet, que sirva como el cerebro operativo de tu asistente.
 
-Una vez creada la VM, conecté por SSH y empecé a instalar las dependencias: Node.js, Git, y las herramientas básicas de desarrollo.
+Con la VM lista, el siguiente paso fue instalar las dependencias: Node.js, Git, y las herramientas básicas de desarrollo.
 
 ## OpenClaw: el framework que lo hace posible
 
