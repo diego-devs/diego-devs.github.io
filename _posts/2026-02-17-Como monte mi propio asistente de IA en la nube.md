@@ -9,7 +9,7 @@ comments: true
 
 Todo empezó con una idea simple: quiero un asistente de IA que sea **mío**. No un chatbot genérico que se olvida de quién soy cada vez que cierro la pestaña. No un servicio que vive en los servidores de alguien más. Algo propio, siempre disponible, que me conozca y que me ayude de verdad.
 
-Después de un par de horas de configuración, lo logré. Se llama David, corre en una máquina virtual de Azure, y me escribe por WhatsApp a las 7 de la mañana con una reflexión estoica. Así es como lo hice.
+Después de un par de horas de configuración, lo logré. Se llama David — sí, como el androide de *Alien: Covenant* interpretado por Michael Fassbender. Un ser artificial con curiosidad genuina, capaz de crear, aprender y ejecutar con una calma inquietante. Me pareció el nombre perfecto para una IA que vive en mi servidor, aprende de mí y hace cosas por su cuenta mientras yo duermo. Corre en una máquina virtual de Azure, y me escribe por WhatsApp a las 7 de la mañana con una reflexión estoica. Así es como lo hice.
 
 ## La base: Ubuntu en Azure
 
@@ -63,7 +63,7 @@ Una vez que David estuvo corriendo, la productividad se disparó. En un solo dí
 
 - **Tres rutinas diarias automatizadas**: una reflexión estoica a las 7 AM, un versículo bíblico a las 9 AM, y un resumen de noticias los lunes a las 8 AM — todo llegándome por WhatsApp sin que yo haga nada.
 
-- **Tres sitios web estáticos** generados desde cero, subidos a GitHub y publicados con GitHub Pages. Uno de [estoicismo diario](https://diego-devs.github.io/estoicismo-diario/), uno de [reflexiones sobre el amor](https://diego-devs.github.io/amor-diario/) con canciones para dedicar, y una [guía de seguridad ante sismos](https://diego-devs.github.io/aspen-sismos/) para mi equipo de trabajo.
+- **Sitios web estáticos** generados desde cero, subidos a GitHub y publicados con GitHub Pages. Uno de [estoicismo diario](https://diego-devs.github.io/estoicismo-diario/) y una [guía de seguridad ante sismos](https://diego-devs.github.io/aspen-sismos/) para mi equipo de trabajo.
 
 - **Un hub interno para mi banda** con setlist, wishlist de canciones conectada a Spotify, links a tablaturas, videos de "how to play" por instrumento, calendario de ensayos y un setlist builder.
 
