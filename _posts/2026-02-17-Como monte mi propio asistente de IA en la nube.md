@@ -1,8 +1,8 @@
 ---
 title: Cómo monté mi propio asistente de IA en la nube (y ahora me manda buenos días por WhatsApp)
-date: 2026-02-18 12:00:00 -600
+date: 2026-02-17 12:00:00 -500
 categories: [technology, IA, OpenClaw, Claude, Azure]
-tags: [ia, openclaw, claude, azure, whatsapp, automatización]
+tags: [ia, openclaw, claude, azure, whatsapp, automatizacion]
 author: <author_id>
 comments: true
 ---
