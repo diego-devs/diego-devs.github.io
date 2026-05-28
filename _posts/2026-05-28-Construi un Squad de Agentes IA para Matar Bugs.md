@@ -64,6 +64,8 @@ Eso mejora a los agentes, pero también mejora tu proceso como desarrollador o e
 
 Este squad no reemplaza criterio técnico. No sustituye a un desarrollador. Lo que sí hace es quitar bastante trabajo mecánico del camino para que yo pueda enfocarme en entender bien el problema y decidir bien la solución.
 
+También tiene otra ventaja práctica: cuando el proceso está dividido por etapas, es mucho más fácil detectar dónde falla algo. Si el planner interpreta mal el bug, lo corriges ahí. Si el tester está siendo demasiado laxo, endureces esa parte. Eso vuelve al sistema mucho más mantenible que un agente único metido en una caja negra.
+
 Y para mí, ese es uno de los usos más reales de la IA en desarrollo: menos show, menos humo, más fricción eliminada en trabajo real.
 
 ---
