@@ -5,7 +5,10 @@ categories: [technology, development, software, IA]
 tags: [ia, agentes, github copilot, azure devops, bugs, debugging]
 author: <author_id>
 comments: true
+image: /assets/img/bug-squad-main.jpg
 ---
+
+![Bug Fixing Squad](/assets/img/bug-squad-main.jpg)
 
 ![Arquitectura del squad de agentes](/assets/img/bug-squad-architecture.svg)
 
