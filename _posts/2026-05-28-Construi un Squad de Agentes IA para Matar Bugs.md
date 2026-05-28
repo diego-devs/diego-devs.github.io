@@ -1,5 +1,5 @@
 ---
-title: Construí un Squad de Agentes IA para Matar Bugs y así funciona
+title: Construí un Squad de 4 Agentes IA para Corregir Bugs más Rápido
 date: 2026-05-28 12:00:00 -500
 categories: [technology, development, software, IA]
 tags: [ia, agentes, github copilot, azure devops, bugs, debugging]
