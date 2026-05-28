@@ -8,10 +8,6 @@ comments: true
 image: /assets/img/bug-squad-main.jpg
 ---
 
-![Bug Fixing Squad](/assets/img/bug-squad-main.jpg)
-
-![Arquitectura del squad de agentes](/assets/img/bug-squad-architecture.svg)
-
 Arreglar un bug rara vez tarda mucho por el fix en sí. Lo que consume tiempo es el resto: leer el ticket, revisar comentarios, entender adjuntos, ubicar el módulo correcto, confirmar la causa raíz, aplicar el cambio y validar que no rompiste nada.
 
 Para quitarme esa fricción, armé un squad de 4 agentes de IA. En vez de usar un solo agente “todólogo”, dividí el trabajo por roles.
@@ -36,6 +32,8 @@ El planner no genera un resumen bonito para management. Genera un plan técnico 
 Luego el fixer ejecuta. Si el código real no coincide con el plan, lo reporta en vez de improvisar.
 
 Después entra el tester. No toca archivos; solo revisa. Busca null references, errores lógicos, efectos secundarios y regresiones.
+
+![Arquitectura del squad de agentes](/assets/img/bug-squad-architecture.svg)
 
 Al final, el retro registra el patrón. Si vuelve a aparecer un bug similar, el sistema arranca con más contexto.
 
