@@ -1,0 +1,106 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" stroke="#1E293B" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <marker id="arrowCyan" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#22D3EE"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#34D399"/>
+    </marker>
+    <marker id="arrowOrange" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#FB923C"/>
+    </marker>
+    <style>
+      .title { font: 700 38px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
+      .subtitle { font: 500 18px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
+      .label { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #E2E8F0; }
+      .small { font: 500 16px 'Segoe UI', Arial, sans-serif; fill: #CBD5E1; }
+      .tiny { font: 500 14px 'Segoe UI', Arial, sans-serif; fill: #94A3B8; }
+      .legend { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #CBD5E1; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#grid)" opacity="0.35"/>
+
+  <text x="90" y="90" class="title">Bug Squad IA — Arquitectura</text>
+  <text x="90" y="125" class="subtitle">Cuatro agentes especializados conectados a Azure DevOps y al monorepo vía Copilot CLI</text>
+
+  <line x1="280" y1="300" x2="460" y2="300" stroke="#22D3EE" stroke-width="5" marker-end="url(#arrowCyan)"/>
+  <line x1="760" y1="300" x2="840" y2="300" stroke="#34D399" stroke-width="5" marker-end="url(#arrowGreen)"/>
+  <line x1="1140" y1="300" x2="1220" y2="300" stroke="#FB923C" stroke-width="5" marker-end="url(#arrowOrange)"/>
+  <line x1="1220" y1="380" x2="1140" y2="380" stroke="#F472B6" stroke-width="4" stroke-dasharray="10 10" marker-end="url(#arrowOrange)"/>
+  <line x1="860" y1="510" x2="860" y2="620" stroke="#A78BFA" stroke-width="4" marker-end="url(#arrowGreen)"/>
+  <line x1="560" y1="510" x2="560" y2="620" stroke="#22D3EE" stroke-width="4" marker-end="url(#arrowCyan)"/>
+
+  <rect x="80" y="220" width="200" height="160" rx="20" fill="rgba(30,41,59,0.75)" stroke="#94A3B8" stroke-width="2.5" filter="url(#shadow)"/>
+  <text x="120" y="275" class="label">Bug</text>
+  <text x="120" y="310" class="small">Azure DevOps</text>
+  <text x="120" y="340" class="tiny">ticket, comentarios,</text>
+  <text x="120" y="362" class="tiny">adjuntos y screenshots</text>
+
+  <rect x="460" y="190" width="300" height="320" rx="24" fill="rgba(8,51,68,0.45)" stroke="#22D3EE" stroke-width="3" filter="url(#shadow)"/>
+  <text x="500" y="250" class="label">bug-planner</text>
+  <text x="500" y="285" class="small">Analiza el bug</text>
+  <text x="500" y="325" class="tiny">• lee ADO y adjuntos</text>
+  <text x="500" y="350" class="tiny">• navega el código</text>
+  <text x="500" y="375" class="tiny">• encuentra causa raíz</text>
+  <text x="500" y="400" class="tiny">• propone plan técnico</text>
+  <rect x="500" y="430" width="220" height="48" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-width="2"/>
+  <text x="528" y="460" class="legend">Salida: plan + snippets</text>
+
+  <rect x="840" y="190" width="300" height="320" rx="24" fill="rgba(6,78,59,0.45)" stroke="#34D399" stroke-width="3" filter="url(#shadow)"/>
+  <text x="880" y="250" class="label">bug-fixer</text>
+  <text x="880" y="285" class="small">Implementa el fix</text>
+  <text x="880" y="325" class="tiny">• abre archivos afectados</text>
+  <text x="880" y="350" class="tiny">• confirma contexto real</text>
+  <text x="880" y="375" class="tiny">• aplica cambio quirúrgico</text>
+  <text x="880" y="400" class="tiny">• compila o valida</text>
+  <rect x="880" y="430" width="210" height="48" rx="12" fill="#0F172A" stroke="#34D399" stroke-width="2"/>
+  <text x="918" y="460" class="legend">Salida: código corregido</text>
+
+  <rect x="1220" y="190" width="300" height="320" rx="24" fill="rgba(251,146,60,0.24)" stroke="#FB923C" stroke-width="3" filter="url(#shadow)"/>
+  <text x="1260" y="250" class="label">bug-tester</text>
+  <text x="1260" y="285" class="small">Valida el fix</text>
+  <text x="1260" y="325" class="tiny">• revisa archivos modificados</text>
+  <text x="1260" y="350" class="tiny">• busca regresiones</text>
+  <text x="1260" y="375" class="tiny">• detecta nulls / off-by-one</text>
+  <text x="1260" y="400" class="tiny">• aprueba o rebota</text>
+  <rect x="1260" y="430" width="210" height="48" rx="12" fill="#0F172A" stroke="#FB923C" stroke-width="2"/>
+  <text x="1294" y="460" class="legend">Salida: aprobación QA</text>
+
+  <rect x="390" y="620" width="340" height="180" rx="24" fill="rgba(76,29,149,0.42)" stroke="#A78BFA" stroke-width="3" filter="url(#shadow)"/>
+  <text x="430" y="680" class="label">Monorepo</text>
+  <text x="430" y="715" class="small">C# / Angular</text>
+  <text x="430" y="750" class="tiny">El planner inspecciona</text>
+  <text x="430" y="772" class="tiny">el código y el fixer</text>
+  <text x="430" y="794" class="tiny">aplica el cambio real</text>
+
+  <rect x="860" y="620" width="340" height="180" rx="24" fill="rgba(76,29,149,0.42)" stroke="#A78BFA" stroke-width="3" filter="url(#shadow)"/>
+  <text x="900" y="680" class="label">bug-retro</text>
+  <text x="900" y="715" class="small">Memoria del equipo</text>
+  <text x="900" y="750" class="tiny">• registra patrones</text>
+  <text x="900" y="772" class="tiny">• guarda aprendizajes</text>
+  <text x="900" y="794" class="tiny">• acelera futuros bugs</text>
+
+  <rect x="80" y="760" width="250" height="88" rx="18" fill="rgba(30,41,59,0.65)" stroke="#334155" stroke-width="2"/>
+  <circle cx="110" cy="790" r="7" fill="#22D3EE"/>
+  <text x="130" y="796" class="legend">Análisis / contexto</text>
+  <circle cx="110" cy="820" r="7" fill="#34D399"/>
+  <text x="130" y="826" class="legend">Cambio en código</text>
+
+  <rect x="1270" y="760" width="250" height="88" rx="18" fill="rgba(30,41,59,0.65)" stroke="#334155" stroke-width="2"/>
+  <circle cx="1300" cy="790" r="7" fill="#FB923C"/>
+  <text x="1320" y="796" class="legend">Validación QA</text>
+  <circle cx="1300" cy="820" r="7" fill="#F472B6"/>
+  <text x="1320" y="826" class="legend">Feedback si falla</text>
+</svg>
