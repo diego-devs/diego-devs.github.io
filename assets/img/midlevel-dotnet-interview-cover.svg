@@ -1,0 +1,65 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1340" cy="130" r="180" fill="#60A5FA" fill-opacity="0.12"/>
+  <circle cx="220" cy="740" r="220" fill="#22C55E" fill-opacity="0.10"/>
+
+  <rect x="110" y="110" width="1380" height="680" rx="32" fill="url(#panel)" fill-opacity="0.92" stroke="#93C5FD" stroke-opacity="0.18" stroke-width="2"/>
+
+  <text x="160" y="205" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Entrevista .NET Mid-Level</text>
+  <text x="160" y="255" fill="#93C5FD" font-family="Arial, Helvetica, sans-serif" font-size="28">C# • ASP.NET Core • Entity Framework • SOLID • Async/Await</text>
+
+  <rect x="925" y="250" width="400" height="250" rx="24" fill="#0F172A" stroke="#60A5FA" stroke-width="3"/>
+  <rect x="950" y="278" width="350" height="180" rx="16" fill="url(#screen)"/>
+  <rect x="1065" y="470" width="120" height="16" rx="8" fill="#64748B"/>
+  <rect x="1020" y="490" width="210" height="18" rx="9" fill="#475569"/>
+
+  <text x="985" y="338" fill="#F8FAFC" font-family="Consolas, monospace" font-size="26">public class Candidate</text>
+  <text x="985" y="374" fill="#DBEAFE" font-family="Consolas, monospace" font-size="22">{</text>
+  <text x="1010" y="410" fill="#DBEAFE" font-family="Consolas, monospace" font-size="22">public string Skillset { get; set; }</text>
+  <text x="1010" y="442" fill="#DBEAFE" font-family="Consolas, monospace" font-size="22">= ".NET / C# / APIs";</text>
+  <text x="985" y="474" fill="#DBEAFE" font-family="Consolas, monospace" font-size="22">}</text>
+
+  <g opacity="0.96">
+    <circle cx="360" cy="410" r="74" fill="#FBBF24"/>
+    <rect x="290" y="492" width="140" height="190" rx="36" fill="#2563EB"/>
+    <rect x="248" y="530" width="54" height="170" rx="27" fill="#2563EB"/>
+    <rect x="418" y="530" width="54" height="170" rx="27" fill="#2563EB"/>
+    <rect x="310" y="680" width="38" height="92" rx="19" fill="#111827"/>
+    <rect x="372" y="680" width="38" height="92" rx="19" fill="#111827"/>
+    <rect x="285" y="770" width="72" height="20" rx="10" fill="#0F172A"/>
+    <rect x="362" y="770" width="72" height="20" rx="10" fill="#0F172A"/>
+  </g>
+
+  <g opacity="0.96">
+    <circle cx="650" cy="380" r="70" fill="#F59E0B"/>
+    <rect x="582" y="460" width="136" height="170" rx="34" fill="#10B981"/>
+    <rect x="544" y="502" width="48" height="145" rx="24" fill="#10B981"/>
+    <rect x="708" y="502" width="48" height="145" rx="24" fill="#10B981"/>
+    <rect x="610" y="628" width="34" height="98" rx="17" fill="#111827"/>
+    <rect x="660" y="628" width="34" height="98" rx="17" fill="#111827"/>
+    <rect x="592" y="720" width="60" height="18" rx="9" fill="#0F172A"/>
+    <rect x="650" y="720" width="60" height="18" rx="9" fill="#0F172A"/>
+  </g>
+
+  <rect x="455" y="560" width="160" height="22" rx="11" transform="rotate(-18 455 560)" fill="#CBD5E1"/>
+  <rect x="558" y="520" width="92" height="54" rx="10" transform="rotate(-10 558 520)" fill="#E2E8F0"/>
+  <rect x="230" y="810" width="1130" height="16" rx="8" fill="#334155"/>
+
+  <rect x="960" y="575" width="270" height="72" rx="18" fill="#0F172A" stroke="#22C55E" stroke-opacity="0.6"/>
+  <text x="992" y="620" fill="#86EFAC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Think clearly. Explain well.</text>
+</svg>

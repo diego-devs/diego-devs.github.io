@@ -5,10 +5,8 @@ categories: [technology, development, dotnet, interviews]
 tags: [dotnet, csharp, entrevistas, midlevel, aspnetcore, entityframework, backend]
 author: <author_id>
 comments: true
-image: /assets/img/stack.jpg
+image: /assets/img/midlevel-dotnet-interview-cover.svg
 ---
-
-![image](/assets/img/stack.jpg)
 
 Buscar trabajo como desarrollador .NET mid-level no debería sentirse como ir a un examen sorpresa… aunque a veces se le parezca bastante. La buena noticia es que, en la mayoría de entrevistas, no te van a pedir que reinventes el CLR ni que recites de memoria todos los overloads de LINQ. Lo que sí van a querer ver es si dominas bien las bases, si entiendes cómo construir software mantenible y si puedes comunicarte como alguien que ya dejó de ser junior.
 
