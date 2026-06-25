@@ -1,0 +1,105 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060816"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="180" y1="120" x2="1420" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1224"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="human" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="robot" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1320" cy="120" r="180" fill="#22D3EE" fill-opacity="0.08"/>
+  <circle cx="240" cy="760" r="220" fill="#8B5CF6" fill-opacity="0.10"/>
+  <circle cx="860" cy="120" r="120" fill="#22C55E" fill-opacity="0.06"/>
+
+  <rect x="100" y="90" width="1400" height="720" rx="34" fill="url(#panel)" stroke="#60A5FA" stroke-opacity="0.18" stroke-width="2"/>
+
+  <text x="150" y="185" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Los developers que sobreviven a la IA</text>
+  <text x="150" y="235" fill="#93C5FD" font-family="Arial, Helvetica, sans-serif" font-size="28">No son los que escriben más rápido. Son los que piensan mejor.</text>
+
+  <rect x="150" y="285" width="570" height="420" rx="28" fill="#0B1120" stroke="#22C55E" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="880" y="285" width="570" height="420" rx="28" fill="#0B1120" stroke="#A78BFA" stroke-opacity="0.40" stroke-width="2"/>
+
+  <text x="205" y="345" fill="#86EFAC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Developer con criterio</text>
+  <text x="935" y="345" fill="#C4B5FD" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">IA / velocidad bruta</text>
+
+  <g filter="url(#softGlow)">
+    <circle cx="435" cy="470" r="86" fill="#22C55E" fill-opacity="0.14"/>
+    <circle cx="1165" cy="470" r="86" fill="#8B5CF6" fill-opacity="0.16"/>
+  </g>
+
+  <g opacity="0.98">
+    <circle cx="435" cy="450" r="62" fill="#FBBF24"/>
+    <rect x="360" y="520" width="150" height="185" rx="38" fill="url(#human)"/>
+    <rect x="318" y="562" width="52" height="150" rx="26" fill="url(#human)"/>
+    <rect x="500" y="562" width="52" height="150" rx="26" fill="url(#human)"/>
+    <rect x="388" y="694" width="34" height="86" rx="17" fill="#0F172A"/>
+    <rect x="446" y="694" width="34" height="86" rx="17" fill="#0F172A"/>
+    <rect x="366" y="774" width="62" height="18" rx="9" fill="#020617"/>
+    <rect x="442" y="774" width="62" height="18" rx="9" fill="#020617"/>
+  </g>
+
+  <g opacity="0.98">
+    <rect x="1090" y="390" width="150" height="180" rx="26" fill="url(#robot)"/>
+    <rect x="1120" y="350" width="90" height="80" rx="18" fill="#1F1147" stroke="#C4B5FD" stroke-width="3"/>
+    <circle cx="1150" cy="390" r="10" fill="#67E8F9"/>
+    <circle cx="1180" cy="390" r="10" fill="#67E8F9"/>
+    <rect x="1150" y="408" width="30" height="8" rx="4" fill="#E9D5FF"/>
+    <rect x="1060" y="430" width="30" height="110" rx="15" fill="url(#robot)"/>
+    <rect x="1240" y="430" width="30" height="110" rx="15" fill="url(#robot)"/>
+    <rect x="1120" y="568" width="24" height="94" rx="12" fill="#0F172A"/>
+    <rect x="1188" y="568" width="24" height="94" rx="12" fill="#0F172A"/>
+    <rect x="1100" y="654" width="56" height="18" rx="9" fill="#020617"/>
+    <rect x="1180" y="654" width="56" height="18" rx="9" fill="#020617"/>
+    <line x1="1165" y1="350" x2="1165" y2="325" stroke="#C4B5FD" stroke-width="4"/>
+    <circle cx="1165" cy="318" r="10" fill="#67E8F9"/>
+  </g>
+
+  <g>
+    <rect x="205" y="560" width="380" height="44" rx="14" fill="#052E1A"/>
+    <text x="228" y="589" fill="#DCFCE7" font-family="Arial, Helvetica, sans-serif" font-size="24">• entiende sistemas complejos</text>
+    <rect x="205" y="615" width="330" height="44" rx="14" fill="#052E1A"/>
+    <text x="228" y="644" fill="#DCFCE7" font-family="Arial, Helvetica, sans-serif" font-size="24">• detecta riesgos y trade-offs</text>
+    <rect x="205" y="670" width="305" height="44" rx="14" fill="#052E1A"/>
+    <text x="228" y="699" fill="#DCFCE7" font-family="Arial, Helvetica, sans-serif" font-size="24">• usa IA sin dejar de pensar</text>
+  </g>
+
+  <g>
+    <rect x="935" y="560" width="315" height="44" rx="14" fill="#2E1065"/>
+    <text x="958" y="589" fill="#F5E8FF" font-family="Arial, Helvetica, sans-serif" font-size="24">• genera código muy rápido</text>
+    <rect x="935" y="615" width="355" height="44" rx="14" fill="#2E1065"/>
+    <text x="958" y="644" fill="#F5E8FF" font-family="Arial, Helvetica, sans-serif" font-size="24">• responde antes de entender</text>
+    <rect x="935" y="670" width="330" height="44" rx="14" fill="#2E1065"/>
+    <text x="958" y="699" fill="#F5E8FF" font-family="Arial, Helvetica, sans-serif" font-size="24">• acelera, pero no decide sola</text>
+  </g>
+
+  <path d="M720 490C780 470 832 470 880 490" stroke="url(#glow)" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="800" cy="490" r="16" fill="#E0F2FE"/>
+  <text x="742" y="450" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">La diferencia real:</text>
+  <text x="722" y="530" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">criterio</text>
+
+  <rect x="190" y="755" width="1220" height="26" rx="13" fill="#1E293B"/>
+</svg>

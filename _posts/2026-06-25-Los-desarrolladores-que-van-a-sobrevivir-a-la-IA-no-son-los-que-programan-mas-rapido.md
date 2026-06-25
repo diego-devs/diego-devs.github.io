@@ -5,6 +5,7 @@ categories: [technology, development, software, IA]
 tags: [ia, desarrollo, productividad, carrera, criterio, developers]
 author: <author_id>
 comments: true
+image: /assets/img/ai-survival-developers-cover.svg
 ---
 
 Durante años, programar rápido fue una ventaja competitiva real.
