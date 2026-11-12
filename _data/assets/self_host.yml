@@ -27,7 +27,7 @@ mermaid:
 dayjs:
   js:
     common: /assets/lib/dayjs-1.10.7/dayjs.min.js
-    locale: /assets/lib/dayjs-1.10.7/locale/en.min.js
+    locale: /assets/js/dayjs-locale/:LOCALE.min.js
     relativeTime: /assets/lib/dayjs-1.10.7/plugin/relativeTime.min.js
     localizedFormat: /assets/lib/dayjs-1.10.7/plugin/localizedFormat.min.js
 
