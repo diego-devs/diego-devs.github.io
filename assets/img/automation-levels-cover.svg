@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b33"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="70" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Los 5 niveles de</text>
+  <text x="70" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">automatización</text>
+  <text x="70" y="245" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#8b949e">en desarrollo de software</text>
+  <text x="70" y="540" font-family="Consolas, monospace" font-size="24" fill="#7ee787">tag: agent-ready → intake → fix → retro → conclude</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <rect x="640" y="400" width="90" height="60" rx="8" fill="url(#bar)" opacity="0.45"/><text x="685" y="440">1</text>
+    <rect x="745" y="350" width="90" height="110" rx="8" fill="url(#bar)" opacity="0.6"/><text x="790" y="440">2</text>
+    <rect x="850" y="290" width="90" height="170" rx="8" fill="url(#bar)" opacity="0.75"/><text x="895" y="440">3</text>
+    <rect x="955" y="220" width="90" height="240" rx="8" fill="url(#bar)" opacity="0.9"/><text x="1000" y="440">4</text>
+    <rect x="1060" y="140" width="90" height="320" rx="8" fill="url(#bar)"/><text x="1105" y="440">5</text>
+  </g>
+  <text x="1105" y="125" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#a371f7" text-anchor="middle">end to end</text>
+</svg>
