@@ -5,7 +5,7 @@ categories: [technology, development, software, IA]
 tags: [ia, agentes, automatizacion, github copilot, github actions, azure devops, devops]
 author: <author_id>
 comments: true
-image: /assets/img/automation-levels-cover.svg
+image: /assets/img/automation-levels-laptop-cover.jpg
 ---
 
 Hace unos meses escribí sobre cómo armé un **squad de 4 agentes de IA para corregir bugs**. En ese momento me parecía un salto enorme: un agente planea, otro arregla, otro revisa y otro aprende.
@@ -21,6 +21,8 @@ Y para explicar cómo llegamos ahí, me sirve pensar en algo parecido a los nive
 ## Los 5 niveles
 
 No es un estándar oficial. Es la forma en la que yo lo veo después de pasar por cada uno.
+
+![Los 5 niveles de automatización](/assets/img/automation-levels-cover.svg)
 
 ### Nivel 1 — Autocompletado
 
